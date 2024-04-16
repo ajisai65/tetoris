@@ -1,1 +1,1 @@
-# tetoris
+# tetoris　チュートリアル
