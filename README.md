@@ -28,3 +28,10 @@ The template now uses folders for better organizion of the files. So, all the so
 | 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
 </p>
 # tetoris　チュートリアル
+1. This is step 1.
+1. This is the next step.
+1. This is yet another step, the third.
+
+* First item in an unordered list.
+* Another item.
+* Here we go again.
