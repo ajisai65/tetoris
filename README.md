@@ -1,3 +1,22 @@
+# tetoris　
+## 必要なスキルセット 
+tetoris を作る上で必要なスキルセットを以下に記載します。
+1. 
+2. 
+3. 
+
+## 環境構築
+Tetoris を動作させるために必要な環境構築の方法を以下に記載します。
+1. 
+2. 
+3. 
+
+## Code 概要
+Tetoris のコードの概要を以下に記載します。
+1. 
+2. 
+3. 
+
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
@@ -27,11 +46,3 @@ The template now uses folders for better organizion of the files. So, all the so
 | 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
 | 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
 </p>
-# tetoris　チュートリアル
-1. This is step 1.
-1. This is the next step.
-1. This is yet another step, the third.
-
-* First item in an unordered list.
-* Another item.
-* Here we go again.
