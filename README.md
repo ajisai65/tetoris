@@ -1,35 +1,45 @@
-# tetoris　
-## 必要なスキルセット 
+# tetoris 　
+
+## 必要なスキルセット
+
 tetoris を作る上で必要なスキルセットを以下に記載します。
-1. 
-2. 
-3. 
-4. 
-5. 
+
+1.
+2.
+3.
+4.
+5.
 
 ## 環境構築
+
 Tetoris を動作させるために必要な環境構築の方法を以下に記載します。
-1. 
-2. 
-3. 
+
+1.
+2.
+3.
 
 ## Code 概要
+
 Tetoris のコードの概要を以下に記載します。
-1. 
-2. 
-3. 
+
+1.
+2.
+3.
 
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
+
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
 It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
 
 # How to use this template
+
 1. Double click on the main.code-workspace file. This will open the template in VS Code.
 2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
 3. Press F5 on the keyboard to compile and run the program.
 
 # What's changed
+
 The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
 
 # Video Tutorial
